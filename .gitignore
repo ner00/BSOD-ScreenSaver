@@ -1,4 +1,9 @@
 ## Ignores
+.vs/
+Debug/
+Release/
+*.vcxproj.user
+*.csproj.user
 
 # Windows image file caches
 Thumbs.db
