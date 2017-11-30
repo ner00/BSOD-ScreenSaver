@@ -118,7 +118,310 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="bios" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bios.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blank" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\blank.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0000.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0001.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0002.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0003" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0003.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0004.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0005.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0006.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0007.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0008.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0009.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0010" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0010.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0011" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0011.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0012" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0012.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0013" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0013.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0014" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0014.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0015" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0015.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0016" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0016.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0017" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0017.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0018" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0018.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0019" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0019.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0020" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0020.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0021" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0021.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0022" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0022.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0023" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0023.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0024.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0025" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0025.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0026" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0026.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0027" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0027.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0028" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0028.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0029" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0029.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0030" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0030.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0031" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0031.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0032" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0032.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0033" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0033.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0034" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0034.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0035" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0035.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0036" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0036.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0037" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0037.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0038" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0038.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0039" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0039.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0040" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0040.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0041" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0041.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0042" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0042.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0043" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0043.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0044" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0044.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0045" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0045.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0046" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0046.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0047" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0047.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0048" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0048.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0049" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0049.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0050" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0050.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0051" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0051.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0052" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0052.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0053" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0053.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0054" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0054.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0055" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0055.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0056" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0056.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0057" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0057.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0058" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0058.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0059" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0059.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0060" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0060.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0061" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0061.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0062" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0062.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0063" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0063.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0064" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0064.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0065" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0065.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0066" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0066.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0067" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0067.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0068" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0068.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0069" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0069.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BootScreen0070" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bootscreen0070.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="bsod" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bsod.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\img\bsod.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod34.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod37" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod37.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod42.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod46" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod46.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod47" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod47.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod54" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod54.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod59" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod59.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod60" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod60.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod66" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod66.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod74" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod74.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod77" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod77.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod79" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod79.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod86" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod86.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bsod99" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\bsod99.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lockscreen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\lockscreen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

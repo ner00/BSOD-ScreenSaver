@@ -31,6 +31,7 @@ namespace BSOD
         /// </summary>
         private void InitializeComponent()
         {
+            this.asyncWorker = new System.ComponentModel.BackgroundWorker();
             this.picture = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.picture)).BeginInit();
             this.SuspendLayout();
@@ -46,6 +47,7 @@ namespace BSOD
             this.picture.TabIndex = 1;
             this.picture.TabStop = false;
             this.picture.KeyDown += new System.Windows.Forms.KeyEventHandler(this.BlueForm_KeyDown);
+            this.picture.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.BlueForm_KeyPress);
             this.picture.MouseClick += new System.Windows.Forms.MouseEventHandler(this.BlueForm_MouseClick);
             this.picture.MouseMove += new System.Windows.Forms.MouseEventHandler(this.BlueForm_MouseMove);
             // 
@@ -60,8 +62,10 @@ namespace BSOD
             this.Name = "BlueForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "BSOD";
+            this.Activated += new System.EventHandler(this.BlueForm_Activated);
             this.Load += new System.EventHandler(this.BlueForm_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.BlueForm_KeyDown);
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.BlueForm_KeyPress);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.BlueForm_MouseClick);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.BlueForm_MouseMove);
             ((System.ComponentModel.ISupportInitialize)(this.picture)).EndInit();
@@ -71,6 +75,7 @@ namespace BSOD
 
         #endregion
         private PictureBox picture;
+        private BackgroundWorker asyncWorker;
     }
 }
 

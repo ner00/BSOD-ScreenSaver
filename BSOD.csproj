@@ -68,6 +68,10 @@
     <None Include=".gitignore" />
     <None Include="app.config" />
     <None Include="CONTRIBUTING.md" />
+    <None Include="img\bios.psd" />
+    <None Include="img\blank.psd" />
+    <None Include="img\bsod.psd" />
+    <None Include="img\lockscreen.psd" />
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
@@ -92,6 +96,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="BlueForm.resx">
+      <DependentUpon>BlueForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -111,7 +118,110 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <None Include="bsod.png" />
+    <None Include="img\bsod.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\bios.png" />
+    <Content Include="img\blank.png" />
+    <Content Include="img\BootScreen0000.bmp" />
+    <Content Include="img\BootScreen0001.bmp" />
+    <Content Include="img\BootScreen0002.bmp" />
+    <Content Include="img\BootScreen0003.bmp" />
+    <Content Include="img\BootScreen0004.bmp" />
+    <Content Include="img\BootScreen0005.bmp" />
+    <Content Include="img\BootScreen0006.bmp" />
+    <Content Include="img\BootScreen0007.bmp" />
+    <Content Include="img\BootScreen0008.bmp" />
+    <Content Include="img\BootScreen0009.bmp" />
+    <Content Include="img\BootScreen0010.bmp" />
+    <Content Include="img\BootScreen0011.bmp" />
+    <Content Include="img\BootScreen0012.bmp" />
+    <Content Include="img\BootScreen0013.bmp" />
+    <Content Include="img\BootScreen0014.bmp" />
+    <Content Include="img\BootScreen0015.bmp" />
+    <Content Include="img\BootScreen0016.bmp" />
+    <Content Include="img\BootScreen0017.bmp" />
+    <Content Include="img\BootScreen0018.bmp" />
+    <Content Include="img\BootScreen0019.bmp" />
+    <Content Include="img\BootScreen0020.bmp" />
+    <Content Include="img\BootScreen0021.bmp" />
+    <Content Include="img\BootScreen0022.bmp" />
+    <Content Include="img\BootScreen0023.bmp" />
+    <Content Include="img\BootScreen0024.bmp" />
+    <Content Include="img\BootScreen0025.bmp" />
+    <Content Include="img\BootScreen0026.bmp" />
+    <Content Include="img\BootScreen0027.bmp" />
+    <Content Include="img\BootScreen0028.bmp" />
+    <Content Include="img\BootScreen0029.bmp" />
+    <Content Include="img\BootScreen0030.bmp" />
+    <Content Include="img\BootScreen0031.bmp" />
+    <Content Include="img\BootScreen0032.bmp" />
+    <Content Include="img\BootScreen0033.bmp" />
+    <Content Include="img\BootScreen0034.bmp" />
+    <Content Include="img\BootScreen0035.bmp" />
+    <Content Include="img\BootScreen0036.bmp" />
+    <Content Include="img\BootScreen0037.bmp" />
+    <Content Include="img\BootScreen0038.bmp" />
+    <Content Include="img\BootScreen0039.bmp" />
+    <Content Include="img\BootScreen0040.bmp" />
+    <Content Include="img\BootScreen0041.bmp" />
+    <Content Include="img\BootScreen0042.bmp" />
+    <Content Include="img\BootScreen0043.bmp" />
+    <Content Include="img\BootScreen0044.bmp" />
+    <Content Include="img\BootScreen0045.bmp" />
+    <Content Include="img\BootScreen0046.bmp" />
+    <Content Include="img\BootScreen0047.bmp" />
+    <Content Include="img\BootScreen0048.bmp" />
+    <Content Include="img\BootScreen0049.bmp" />
+    <Content Include="img\BootScreen0050.bmp" />
+    <Content Include="img\BootScreen0051.bmp" />
+    <Content Include="img\BootScreen0052.bmp" />
+    <Content Include="img\BootScreen0053.bmp" />
+    <Content Include="img\BootScreen0054.bmp" />
+    <Content Include="img\BootScreen0055.bmp" />
+    <Content Include="img\BootScreen0056.bmp" />
+    <Content Include="img\BootScreen0057.bmp" />
+    <Content Include="img\BootScreen0058.bmp" />
+    <Content Include="img\BootScreen0059.bmp" />
+    <Content Include="img\BootScreen0060.bmp" />
+    <Content Include="img\BootScreen0061.bmp" />
+    <Content Include="img\BootScreen0062.bmp" />
+    <Content Include="img\BootScreen0063.bmp" />
+    <Content Include="img\BootScreen0064.bmp" />
+    <Content Include="img\BootScreen0065.bmp" />
+    <Content Include="img\BootScreen0066.bmp" />
+    <Content Include="img\BootScreen0067.bmp" />
+    <Content Include="img\BootScreen0068.bmp" />
+    <Content Include="img\BootScreen0069.bmp" />
+    <Content Include="img\BootScreen0070.bmp" />
+    <Content Include="img\bsod03.png" />
+    <Content Include="img\bsod05.png" />
+    <Content Include="img\bsod100.png" />
+    <Content Include="img\bsod11.png" />
+    <Content Include="img\bsod12.png" />
+    <Content Include="img\bsod14.png" />
+    <Content Include="img\bsod17.png" />
+    <Content Include="img\bsod25.png" />
+    <Content Include="img\bsod29.png" />
+    <Content Include="img\bsod30.png" />
+    <Content Include="img\bsod31.png" />
+    <Content Include="img\bsod34.png" />
+    <Content Include="img\bsod37.png" />
+    <Content Include="img\bsod42.png" />
+    <Content Include="img\bsod46.png" />
+    <Content Include="img\bsod47.png" />
+    <Content Include="img\bsod48.png" />
+    <Content Include="img\bsod54.png" />
+    <Content Include="img\bsod59.png" />
+    <Content Include="img\bsod60.png" />
+    <Content Include="img\bsod66.png" />
+    <Content Include="img\bsod71.png" />
+    <Content Include="img\bsod74.png" />
+    <Content Include="img\bsod77.png" />
+    <Content Include="img\bsod79.png" />
+    <Content Include="img\bsod86.png" />
+    <Content Include="img\bsod99.png" />
+    <Content Include="img\lockscreen.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>
